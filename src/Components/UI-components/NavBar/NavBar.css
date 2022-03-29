@@ -1,0 +1,20 @@
+.flex-nav{
+    display: flex;
+    background-color:Black;
+    border: 3px solid black;
+}
+
+.flex-nav > div {
+    padding:2em;
+}
+
+.link{
+    padding: 2em;
+    text-decoration: none;
+    font-size:20px;
+    color:white;
+}
+
+.link:hover{
+    background-color: lightgrey;
+}

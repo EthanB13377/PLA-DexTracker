@@ -1,0 +1,374 @@
+{
+    "Rowlett":{
+        "id": "001",
+        "name": "Rowlett",
+        "desc": "Flies noiselessly on delicate wings, It has mastered the art of deftly launching dagger-sharp feathers from those same wings",
+        "type": {
+            "type1": "GRASS",
+            "type2": "FLYING"
+        },
+        "tasks": {
+            "task1":{
+                "name": "Number Caught",
+                "check1": "1",
+                "check2": "2",
+                "check3": "3",
+                "check4": "4",
+                "check5": "5"
+            },
+            "task2":{
+                "name": "Times you've seen it use Leafage",
+                "check1": "1",
+                "check2": "2",
+                "check3": "4",
+                "check4": "10",
+                "check5": "15"
+            },
+            "task3":{
+                "name": "Times you've seen it use Roost",
+                "check1": "1",
+                "check2": "2",
+                "check3": "4",
+                "check4": "10",
+                "check5": "15"
+            },
+            "task4":{
+                "name": "Times you've seen it use Arial Ace",
+                "check1": "1",
+                "check2": "2",
+                "check3": "4",
+                "check4": "10",
+                "check5": "15"
+            },
+            "task5":{
+                "name": "Times you've seen it use a Strong style move",
+                "check1": "1",
+                "check2": "2",
+                "check3": "4",
+                "check4": "10",
+                "check5": "15"
+            },
+            "task6":{
+                "name": "Times you've seen it use a Agile style move",
+                "check1": "1",
+                "check2": "2",
+                "check3": "4",
+                "check4": "10",
+                "check5": "15"
+            },
+            "task7":{
+                "name": "Number Evolved",
+                "check1": "1"
+            }
+        }
+    },
+    "Dartrix":{
+        "id": "002",
+        "name": "Dartrix",
+        "desc": "Regularly basks in sunlight to gather power - presumabely due to the frigid climate. Nontheless, the edges of the blade quils set into its wings are keen as ever.",
+        "type": {
+            "type1": "GRASS",
+            "type2": "FLYING"
+        },
+        "tasks": {
+            "task1":{
+                "name": "Number Caught",
+                "check1": "1",
+                "check2": "2",
+                "check3": "3",
+                "check4": "4",
+                "check5": "5"
+            },
+            "task2":{
+                "name": "Times you've seen it use Leafage",
+                "check1": "1",
+                "check2": "2",
+                "check3": "4",
+                "check4": "10",
+                "check5": "15"
+            },
+            "task3":{
+                "name": "Times you've seen it use Roost",
+                "check1": "1",
+                "check2": "2",
+                "check3": "4",
+                "check4": "10",
+                "check5": "15"
+            },
+            "task4":{
+                "name": "Times you've seen it use Arial Ace",
+                "check1": "1",
+                "check2": "2",
+                "check3": "4",
+                "check4": "10",
+                "check5": "15"
+            },
+            "task5":{
+                "name": "Times you've seen it use a Strong style move",
+                "check1": "1",
+                "check2": "2",
+                "check3": "4",
+                "check4": "10",
+                "check5": "15"
+            },
+            "task6":{
+                "name": "Times you've seen it use a Agile style move",
+                "check1": "1",
+                "check2": "2",
+                "check3": "4",
+                "check4": "10",
+                "check5": "15"
+            },
+            "task7":{
+                "name": "Number Evolved",
+                "check1": "1",
+                "check2": "2",
+                "check3": "3"
+            }
+        }
+    },
+    "Decidueye":{
+        "id": "003",
+        "name": "Decidueye",
+        "desc": "The air stored inside the rachises of Decidyeye's feathers insulates the Pokemom against Hisui's extreme cold. This is firm proof that evolution can be influenced by enviroment",
+        "type": {
+            "type1": "GRASS",
+            "type2": "FIGHTING"
+        },
+        "tasks": {
+            "task1":{
+                "name": "Number Caught",
+                "check1": "1",
+                "check2": "2",
+                "check3": "3",
+                "check4": "4",
+                "check5": "5"
+            },
+            "task2":{
+                "name": "Times you've seen it use Triple Arrows",
+                "check1": "1",
+                "check2": "3",
+                "check3": "8",
+                "check4": "20",
+                "check5": "40"
+            },
+            "task3":{
+                "name": "Times you've seen it use Leaf Blade",
+                "check1": "1",
+                "check2": "3",
+                "check3": "6",
+                "check4": "12",
+                "check5": "25"
+            },
+            "task4":{
+                "name": "Times you've seen it use Leaf Storm ",
+                "check1": "1",
+                "check2": "3",
+                "check3": "6",
+                "check4": "12",
+                "check5": "25"
+            },
+            "task5":{
+                "name": "Times you've seen it use a Strong style move",
+                "check1": "1",
+                "check2": "3",
+                "check3": "8",
+                "check4": "20",
+                "check5": "40"
+            },
+            "task6":{
+                "name": "Times you've seen it use a Agile style move",
+                "check1": "1",
+                "check2": "3",
+                "check3": "8",
+                "check4": "20",
+                "check5": "40"
+            }
+        }
+    },
+    "Cyndaquil":{
+        "id": "004",
+        "name": "Cyndaquil",
+        "desc": "Hails from the Johto region. Though usually curled into a ball due to its timid disposition, it harbors tremendous firepower",
+        "type": {
+            "type1": "FIRE"
+        },
+        "tasks": {
+            "task1":{
+                "name": "Number Caught",
+                "check1": "1",
+                "check2": "2",
+                "check3": "3",
+                "check4": "4",
+                "check5": "5"
+            },
+            "task2":{
+                "name": "Times you've seen it use Ember",
+                "check1": "1",
+                "check2": "2",
+                "check3": "4",
+                "check4": "10",
+                "check5": "15"
+            },
+            "task3":{
+                "name": "Times you've seen it use Quick Attack",
+                "check1": "1",
+                "check2": "2",
+                "check3": "4",
+                "check4": "10",
+                "check5": "15"
+            },
+            "task4":{
+                "name": "Times you've seen it use Flame Wheel",
+                "check1": "1",
+                "check2": "2",
+                "check3": "4",
+                "check4": "10",
+                "check5": "15"
+            },
+            "task5":{
+                "name": "Times you've seen it use a Strong style move",
+                "check1": "1",
+                "check2": "2",
+                "check3": "4",
+                "check4": "10",
+                "check5": "15"
+            },
+            "task6":{
+                "name": "Times you've seen it use a Agile style move",
+                "check1": "1",
+                "check2": "2",
+                "check3": "4",
+                "check4": "10",
+                "check5": "15"
+            },
+            "task7":{
+                "name": "Number Evolved",
+                "check1": "1"
+            }
+        }
+    },
+    "Quilava":{
+        "id": "005",
+        "name": "Quilava",
+        "desc": "This creatures fur is the most mysterious - it is wholly impervious to the burning touch of flame. Should Quilava turn its back to you take heed! Such a posture indicates a forthcoming attack.",
+        "type": {
+            "type1": "FIRE"
+        },
+        "tasks": {
+            "task1":{
+                "name": "Number Caught",
+                "check1": "1",
+                "check2": "2",
+                "check3": "3",
+                "check4": "4",
+                "check5": "5"
+            },
+            "task2":{
+                "name": "Times you've seen it use Ember",
+                "check1": "1",
+                "check2": "2",
+                "check3": "4",
+                "check4": "10",
+                "check5": "15"
+            },
+            "task3":{
+                "name": "Times you've seen it use Quick Attack",
+                "check1": "1",
+                "check2": "2",
+                "check3": "4",
+                "check4": "10",
+                "check5": "15"
+            },
+            "task4":{
+                "name": "Times you've seen it use Flame Wheel",
+                "check1": "1",
+                "check2": "2",
+                "check3": "4",
+                "check4": "10",
+                "check5": "15"
+            },
+            "task5":{
+                "name": "Times you've seen it use a Strong style move",
+                "check1": "1",
+                "check2": "2",
+                "check3": "4",
+                "check4": "10",
+                "check5": "15"
+            },
+            "task6":{
+                "name": "Times you've seen it use a Agile style move",
+                "check1": "1",
+                "check2": "2",
+                "check3": "4",
+                "check4": "10",
+                "check5": "15"
+            },
+            "task7":{
+                "name": "Number Evolved",
+                "check1": "1",
+                "check2": "2",
+                "check3": "3"
+            }
+        }
+    },
+    "Typhlosion":{
+        "id": "006",
+        "name": "Typhlosion",
+        "desc": "Said to purify the lost, forsaken souls with its flames and guide them to the afterlife. I believe its form has been influenced by the energy of the sacred mountain towering at Hisui's center.",
+        "type": {
+            "type1": "FIRE",
+            "type2": "GHOST"
+        },
+        "tasks": {
+            "task1":{
+                "name": "Number Caught",
+                "check1": "1",
+                "check2": "2",
+                "check3": "3",
+                "check4": "4",
+                "check5": "5"
+            },
+            "task2":{
+                "name": "Times you've seen it use Triple Arrows",
+                "check1": "1",
+                "check2": "3",
+                "check3": "8",
+                "check4": "20",
+                "check5": "40"
+            },
+            "task3":{
+                "name": "Times you've seen it use Leaf Blade",
+                "check1": "1",
+                "check2": "3",
+                "check3": "6",
+                "check4": "12",
+                "check5": "25"
+            },
+            "task4":{
+                "name": "Times you've seen it use Leaf Storm ",
+                "check1": "1",
+                "check2": "3",
+                "check3": "6",
+                "check4": "12",
+                "check5": "25"
+            },
+            "task5":{
+                "name": "Times you've seen it use a Strong style move",
+                "check1": "1",
+                "check2": "3",
+                "check3": "8",
+                "check4": "20",
+                "check5": "40"
+            },
+            "task6":{
+                "name": "Times you've seen it use a Agile style move",
+                "check1": "1",
+                "check2": "3",
+                "check3": "8",
+                "check4": "20",
+                "check5": "40"
+            }
+        }
+    }
+}

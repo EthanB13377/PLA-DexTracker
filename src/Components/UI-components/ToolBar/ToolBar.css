@@ -1,0 +1,18 @@
+.toolbar{
+    border:2px solid black;
+    display:inline-flex;
+    height:40px;
+    width: 80%;
+}
+
+.label{
+    font-size: 20px;
+
+}
+
+.sort{
+    width: 25%;
+    margin-right: 15%;
+    margin-left: 5%;
+}
+

@@ -1,0 +1,45 @@
+.GRASS{
+    background-color: greenyellow;
+    width:30%;
+    margin-left:35%;
+    border-radius: 20px;
+    margin-bottom: 2%;
+    border:3px solid silver;
+}
+
+.FLYING{
+    background-color:lightblue;
+    width:30%;
+    margin-left:35%;
+    border-radius: 20px;
+    border:3px solid silver;
+    margin-bottom:2%;
+
+}
+
+.FIGHTING{
+    background-color:orange;
+    width:30%;
+    margin-left:35%;
+    border-radius: 20px;
+    border:3px solid silver;
+    margin-bottom:2%;
+}
+
+.FIRE{
+    background-color:red;
+    width:30%;
+    margin-left:35%;
+    border-radius: 20px;
+    border:3px solid silver;
+    margin-bottom:2%;
+}
+
+.GHOST{
+    background-color:grey;
+    width:30%;
+    margin-left:35%;
+    border-radius: 20px;
+    border:3px solid silver;
+    margin-bottom:2%;
+}
