@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/PLA-DexTracker/static/css/main.7bacaef4.css",
+    "main.js": "/PLA-DexTracker/static/js/main.f61bf795.js",
+    "static/js/787.f4e81d54.chunk.js": "/PLA-DexTracker/static/js/787.f4e81d54.chunk.js",
+    "static/media/main_image.jpeg": "/PLA-DexTracker/static/media/main_image.b39a9130715fc10d357d.jpeg",
+    "static/media/logo.svg": "/PLA-DexTracker/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/PLA-DexTracker/index.html",
+    "main.7bacaef4.css.map": "/PLA-DexTracker/static/css/main.7bacaef4.css.map",
+    "main.f61bf795.js.map": "/PLA-DexTracker/static/js/main.f61bf795.js.map",
+    "787.f4e81d54.chunk.js.map": "/PLA-DexTracker/static/js/787.f4e81d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bacaef4.css",
+    "static/js/main.f61bf795.js"
+  ]
+}
