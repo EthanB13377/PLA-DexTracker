@@ -330,7 +330,7 @@
                 "check5": "5"
             },
             "task2":{
-                "name": "Times you've seen it use Triple Arrows",
+                "name": "Times you've seen it use Infernal Parade",
                 "check1": "1",
                 "check2": "3",
                 "check3": "8",
@@ -338,7 +338,7 @@
                 "check5": "40"
             },
             "task3":{
-                "name": "Times you've seen it use Leaf Blade",
+                "name": "Times you've seen it use Flamethrower",
                 "check1": "1",
                 "check2": "3",
                 "check3": "6",
@@ -346,7 +346,7 @@
                 "check5": "25"
             },
             "task4":{
-                "name": "Times you've seen it use Leaf Storm ",
+                "name": "Times you've seen it use Overheat ",
                 "check1": "1",
                 "check2": "3",
                 "check3": "6",
@@ -368,6 +368,346 @@
                 "check3": "8",
                 "check4": "20",
                 "check5": "40"
+            }
+        }
+    },
+    "Oshawott":{
+        "id": "007",
+        "name": "Oshawott",
+        "desc": "This Pokemon from the Unova region uses the shell on its belly as a wepon to cut down its foes. Thus, I've conferred upon this shell the name 'Schalop'.",
+        "type": {
+            "type1": "WATER"
+        },
+        "tasks": {
+            "task1":{
+                "name": "Number Caught",
+                "check1": "1",
+                "check2": "2",
+                "check3": "3",
+                "check4": "4",
+                "check5": "5"
+            },
+            "task2":{
+                "name": "Times you've seen it use Aqua Jet",
+                "check1": "1",
+                "check2": "2",
+                "check3": "4",
+                "check4": "10",
+                "check5": "15"
+            },
+            "task3":{
+                "name": "Times you've seen it use Water Pulse",
+                "check1": "1",
+                "check2": "2",
+                "check3": "4",
+                "check4": "10",
+                "check5": "15"
+            },
+            "task4":{
+                "name": "Times you've seen it use Slash ",
+                "check1": "1",
+                "check2": "2",
+                "check3": "4",
+                "check4": "10",
+                "check5": "15"
+            },
+            "task5":{
+                "name": "Times you've seen it use a Strong style move",
+                "check1": "1",
+                "check2": "2",
+                "check3": "4",
+                "check4": "10",
+                "check5": "15"
+            },
+            "task6":{
+                "name": "Times you've seen it use a Agile style move",
+                "check1": "1",
+                "check2": "2",
+                "check3": "4",
+                "check4": "10",
+                "check5": "15"
+            },
+            "task7": {
+                "name": "Number Evolved",
+                "check1": "1"
+            }
+        }
+    },
+    "Dewott":{
+        "id": "008",
+        "name": "Dewott",
+        "desc": "Its exquisite double-scalchop technique is likely the result of daily training, and it can send even masters of the blade fleeing in defeat.",
+        "type": {
+            "type1": "WATER"
+        },
+        "tasks": {
+            "task1":{
+                "name": "Number Caught",
+                "check1": "1",
+                "check2": "2",
+                "check3": "3",
+                "check4": "4",
+                "check5": "5"
+            },
+            "task2":{
+                "name": "Times you've seen it use Aqua Jet",
+                "check1": "1",
+                "check2": "2",
+                "check3": "4",
+                "check4": "10",
+                "check5": "15"
+            },
+            "task3":{
+                "name": "Times you've seen it use Water Pulse",
+                "check1": "1",
+                "check2": "2",
+                "check3": "4",
+                "check4": "10",
+                "check5": "15"
+            },
+            "task4":{
+                "name": "Times you've seen it use Slash",
+                "check1": "1",
+                "check2": "2",
+                "check3": "4",
+                "check4": "10",
+                "check5": "15"
+            },
+            "task5":{
+                "name": "Times you've seen it use a Strong style move",
+                "check1": "1",
+                "check2": "2",
+                "check3": "4",
+                "check4": "10",
+                "check5": "15"
+            },
+            "task6":{
+                "name": "Times you've seen it use a Agile style move",
+                "check1": "1",
+                "check2": "2",
+                "check3": "4",
+                "check4": "10",
+                "check5": "15"
+            },
+            "task7":{
+                "name": "Number Evolved",
+                "check1": "1",
+                "check2": "2",
+                "check3": "3"
+            }
+        }
+    },
+    "Samurott":{
+        "id": "009",
+        "name": "Samurott",
+        "desc": "Hard of heart and deft of blade, this rare form of Samurott is a product of the Pokemon's evolition in the region of Hisui. Its turbulent blows crash into foes like ceaseless pounding waves.",
+        "type": {
+            "type1": "WATER",
+            "type2": "DARK"
+        },
+        "tasks": {
+            "task1":{
+                "name": "Number Caught",
+                "check1": "1",
+                "check2": "2",
+                "check3": "3",
+                "check4": "4",
+                "check5": "5"
+            },
+            "task2":{
+                "name": "Times you've seen it use Caeaseless Edge",
+                "check1": "1",
+                "check2": "3",
+                "check3": "8",
+                "check4": "20",
+                "check5": "40"
+            },
+            "task3":{
+                "name": "Times you've seen it use Aqua Tail",
+                "check1": "1",
+                "check2": "3",
+                "check3": "6",
+                "check4": "12",
+                "check5": "25"
+            },
+            "task4":{
+                "name": "Times you've seen it use Hydro Pumo ",
+                "check1": "1",
+                "check2": "3",
+                "check3": "6",
+                "check4": "12",
+                "check5": "25"
+            },
+            "task5":{
+                "name": "Times you've seen it use a Strong style move",
+                "check1": "1",
+                "check2": "3",
+                "check3": "8",
+                "check4": "20",
+                "check5": "40"
+            },
+            "task6":{
+                "name": "Times you've seen it use a Agile style move",
+                "check1": "1",
+                "check2": "3",
+                "check3": "8",
+                "check4": "20",
+                "check5": "40"
+            }
+        }
+    },
+    "Bidoof":{
+        "id": "010",
+        "name": "Bidoof",
+        "desc": "Bidoof has an unsophisticated face and is rarely flustered by anything. There have been incidents involving Bidoof sauntering into villages and gnawing on the houses without a single care.",
+        "type": {
+            "type1": "NORMAL"
+        },
+        "tasks": {
+            "task1":{
+                "name": "Number Caught",
+                "check1": "1",
+                "check2": "3",
+                "check3": "6",
+                "check4": "12",
+                "check5": "25"
+            },
+            "task2":{
+                "name": "Number of heavy speciments you've caught",
+                "check1": "1",
+                "check2": "2",
+                "check3": "3",
+                "check4": "5",
+                "check5": "7"
+            },
+            "task3":{
+                "name": "Number defeated",
+                "check1": "1",
+                "check2": "2",
+                "check3": "4",
+                "check4": "10",
+                "check5": "15"
+            },
+            "task4":{
+                "name": "Number of different forms you've obtained",
+                "check1": "1",
+                "check2": "2"
+            },
+            "task5":{
+                "name": "Number you have evolved",
+                "check1": "1"
+            },
+            "task6":{
+                "name": "Investigated the Bidoff that bother the village",
+                "check1": "1"
+            }
+        }
+    },
+    "Bibarel":{
+        "id": "011",
+        "name": "Bibarel",
+        "desc": "Bibarel fur repels water and is also a fantastic material for heat retention. These Pokemon create dams on rivers to live in.",
+        "type": {
+            "type1": "NORMAL",
+            "type2": "WATER"
+        },
+        "tasks": {
+            "task1":{
+                "name": "Number Caught",
+                "check1": "1",
+                "check2": "3",
+                "check3": "6",
+                "check4": "12",
+                "check5": "25"
+            },
+            "task2":{
+                "name": "Number of alpha specimens caught",
+                "check1": "1",
+                "check2": "2",
+                "check3": "3",
+                "check4": "4",
+                "check5": "5"
+            },
+            "task3":{
+                "name": "Number defeated",
+                "check1": "1",
+                "check2": "3",
+                "check3": "6",
+                "check4": "12",
+                "check5": "25"
+            },
+            "task4":{
+                "name": "Times you've seen it use Bite",
+                "check1": "1",
+                "check2": "3",
+                "check3": "6",
+                "check4": "12",
+                "check5": "25"
+            },
+            "task5":{
+                "name": "Times you've seen it use Aqual Tail",
+                "check1": "1",
+                "check2": "3",
+                "check3": "6",
+                "check4": "12",
+                "check5": "25"
+            },
+            "task6":{
+                "name": "Times you've seen it use a strong style move",
+                "check1": "1",
+                "check2": "3",
+                "check3": "6",
+                "check4": "12",
+                "check5": "25"
+            },
+            "task7": {
+                "name": "Number of different forms you've obtained",
+                "check1": "2"
+            }
+        }
+    },
+    "Starly":{
+        "id": "012",
+        "name": "Starly",
+        "desc": "They live in the fields and mountains, gathering in large flocks. Their cries are quite obnoxious. Though small, their wings are strong - a strike from them leaves pain that persists for a week.",
+        "type": {
+            "type1": "NORMAL",
+            "type2": "FLYING"
+        },
+        "tasks": {
+            "task1":{
+                "name": "Number Caught",
+                "check1": "1",
+                "check2": "3",
+                "check3": "6",
+                "check4": "12",
+                "check5": "25"
+            },
+            "task2":{
+                "name": "Number you've caught without being spotted",
+                "check1": "1",
+                "check2": "2",
+                "check3": "5",
+                "check4": "10",
+                "check5": "20"
+            },
+            "task3":{
+                "name": "Number defeated",
+                "check1": "1",
+                "check2": "2",
+                "check3": "4",
+                "check4": "10",
+                "check5": "15"
+            },
+            "task4":{
+                "name": "Number of different forms you've obtained",
+                "check1": "2"
+            },
+            "task5":{
+                "name": "Number you have evolved",
+                "check1": "1",
+                "check2": "2",
+                "check3": "3"
             }
         }
     }
