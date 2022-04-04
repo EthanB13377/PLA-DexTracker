@@ -1,15 +1,14 @@
 import CheckBox from "../../Generic/CheckBox";
-
+import "./Tasks.css"
 const Task = (props) => {
-    console.log(props.tasks)
     const TaskList = props.tasks;
     const Task = Object.keys(TaskList).map(task => {
         console.log(TaskList[task]);
         return(
-            <tr>
+            <tr className="table-row">
                 <td>{TaskList[task].name}</td>
                 {Object.keys(TaskList[task]).map((check) =>(
-                    <td><CheckBox/></td>
+                    <td><CheckBox task={TaskList[task].task}/></td>
                 ))}
             </tr>
         )
